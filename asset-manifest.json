@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanakkupillay-project/static/css/main.f8ee1947.css",
+    "main.js": "/kanakkupillay-project/static/js/main.50209187.js",
+    "static/js/787.b1334d66.chunk.js": "/kanakkupillay-project/static/js/787.b1334d66.chunk.js",
+    "index.html": "/kanakkupillay-project/index.html",
+    "main.f8ee1947.css.map": "/kanakkupillay-project/static/css/main.f8ee1947.css.map",
+    "main.50209187.js.map": "/kanakkupillay-project/static/js/main.50209187.js.map",
+    "787.b1334d66.chunk.js.map": "/kanakkupillay-project/static/js/787.b1334d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ee1947.css",
+    "static/js/main.50209187.js"
+  ]
+}
